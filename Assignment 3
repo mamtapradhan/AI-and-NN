@@ -1,0 +1,21 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\title{Moravec's  Paradox}
+\author{Submitted By Mamta Pradhan}
+\date{July 2021}
+\begin{document}
+\maketitle
+Moravec’s paradox is a phenomenon surrounding the abilities of AI powered tools. It observes that tasks humans find complex are easy to teach AI. Compared, that is, to simple, sensorimotor skills that come instinctively to humans.
+
+\section{The logic behind Moravec’s paradox}
+One possible explanation of the paradox, offered by Moravec, is based on evolution. All human skills are implemented biologically, using machinery designed by the process of natural selection. In the course of their evolution, natural selection has tended to preserve design improvements and optimizations. The older a skill is, the more time natural selection has had to improve the design. Abstract thought developed only very recently, and consequently, we should not expect its implementation to be particularly efficient. 
+
+\section{Moravec’s paradox and the AI of the past}
+The history of AI has seen an impact from Moravec’s paradox. In fact, it’s arguably a factor that held back development and contributed to the AI effect.
+
+The AI effect is a phenomenon that has seen AI-powered tools loses their ‘AI’ label over time, due to not being ‘true’ intelligence. Moravec’s paradox could have contributed to this. That is, the reason these tools lost their ‘intelligent’ status is that the tasks it does are simple, once you break them down. No matter how good AI tools and programs got at games and logic, thanks to Moravec’s paradox, they couldn’t complete ‘basic’ human tasks.
+
+\section{Moravec’s paradox and modern}
+Now, AI is overcoming Moravec’s paradox. Higher-level artificial intelligence is beginning to replicate our evolutionary abilities. For instance, we are beginning to see AI tools like image classification and facial recognition that is, a machine’s equivalent of sight. Meanwhile, personal assistants like Alexa are an example of AI becoming capable of ‘hearing’ and understanding us. This is thanks to natural language processing (NLP). Similarly, AI is becoming capable of speech, as with these assistants, or advancements like Google Duplex
+
+\end{document}
